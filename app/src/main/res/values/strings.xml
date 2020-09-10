@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Hello-app2</string>
     <string name="good_morning_text">Good morning!</string>
-
+    <string name="good_afternoon_text">Good afternoon!</string>
+    <stiring name="good_evening_text">Good evening!</stiring>
+    <string name="morning_text">Morning</string>
+    <string name="afternoon_text">AfterNoon</string>
+    <string name="evening_text">Evening</string>
 </resources>
