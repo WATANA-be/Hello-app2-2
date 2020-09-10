@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hello-app2</string>
+    <string name="good_morning_text">Good morning!</string>
+
 </resources>
